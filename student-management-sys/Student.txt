@@ -1,0 +1,17 @@
+1 jack Female
+1 jack Female
+1 jack Female
+1 mike Male
+1 jack Female
+1 mike Male
+2 bruce Female
+3 max Female
+1 jack Female
+1 jack Female
+1 jack Female
+1 mike Male
+1 jack Female
+1 mike Male
+2 bruce Female
+3 max Female
+6 jaja Female
